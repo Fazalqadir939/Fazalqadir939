@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Fazal Qadir
 Hi<br>I am currently working on my ground coding and <br>logic building skills<br>Soon will be available for solutions<br>Have a good competion
 
 
