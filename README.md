@@ -1,8 +1,13 @@
 # 💫 Hey, I'm Fazal Qadir
-Hi<br>Hi 👋
-I’m currently working on strengthening my core coding and logic-building skills 💻🧠
-I’ll soon be available with solutions ✨
-Have a great competition and best of luck! 🏆🔥
+</div>
+  <h1>💫 PUCITian</h1>
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Salam!+I'm+Fazal+Qadir;Student+at+PUCIT+%F0%9F%8E%93;Strengthening+core+coding+skills+%F0%9F%92%BB;Logic+building+in+progress+%F0%9F%A7%A0;Solutions+coming+soon!+%E2%9C%A8&center=true&size=25&duration=4000&color=008000&vCenter=true&width=600" alt="Typing SVG"/>
+  </a>
+</div>
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalqadir939@gmail.com) 
