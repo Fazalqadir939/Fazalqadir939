@@ -1,6 +1,8 @@
 # 💫 Hey, I'm Fazal Qadir
-Hi<br>I am currently working on my ground coding and <br>logic building skills<br>Soon will be available for solutions<br>Have a good competion
-
+Hi<br>Hi 👋
+I’m currently working on strengthening my core coding and logic-building skills 💻🧠
+I’ll soon be available with solutions ✨
+Have a great competition and best of luck! 🏆🔥
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalqadir939@gmail.com) 
