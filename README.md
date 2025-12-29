@@ -1,6 +1,5 @@
 # 💫 Hey, I'm Fazal Qadir
 </div>
-  <h1>💫 PUCITian</h1>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
