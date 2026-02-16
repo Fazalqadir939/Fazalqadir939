@@ -10,8 +10,8 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalqadir939@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+## 🔥 daily commitment
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Fazalqadir939&theme=dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fazalqadir939&theme=radical&no-frame=true&no-bg=true&margin-w=4)
