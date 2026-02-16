@@ -13,6 +13,5 @@
 ## 🔥 daily commitment
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Fazalqadir939&theme=dark)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fazalqadir939&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
+## 📬 get in touch
+📫 **contact me**: [email](mailto:fazalqadir939@gmail.com)
