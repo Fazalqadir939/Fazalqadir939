@@ -45,7 +45,13 @@
 
 <br/>
 
+# 🏰 Contribution Castle
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fazalqadir939/Fazalqadir939/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</p>
+
+---
 ---
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalqadir939@gmail.com) 
