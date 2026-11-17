@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=500&lines=Hi%2C+I'm+Fazal+Qadir" alt="Typing Intro" />
 </h1>
-
+<!--
 <div align="right">
-  <!-- 🇵🇰 Animated Pakistan Flag GIF 🇵🇰 -->
-  <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="140"/>
+ <!-- <!-- 🇵🇰 Animated Pakistan Flag GIF 🇵🇰 -->
+ <!-- <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="140"/>
 </div>
 
 ### ⚔️ CodeForces
